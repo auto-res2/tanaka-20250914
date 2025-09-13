@@ -3,5 +3,25 @@
   "queries": [
     "diffusion model acceleration",
     "fast diffusion sampling"
+  ],
+  "research_study_list": [
+    {
+      "title": "Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference"
+    },
+    {
+      "title": "Leveraging Early-Stage Robustness in Diffusion Models for Efficient and High-Quality Image Synthesis"
+    },
+    {
+      "title": "Post-Training Quantization on Diffusion Models"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models"
+    },
+    {
+      "title": "Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference"
+    }
   ]
 }
